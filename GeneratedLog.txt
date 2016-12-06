@@ -1,0 +1,31 @@
+Time in          |   Time out          |   Guest name          |   Guest phone          |   Guest Email          |   Guest ID          |   Host name          |   Host ID          |   Host room #| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+04/22/2016 15:10 |04/22/2016 15:12     |Adam                   |5555555                 |22caimona@cua.edu       |284756               |JP                    |390875              |99             |
+04/22/2016 15:12 |null                 |Adam                   |5555555                 |22caimona@cua.edu       |284756               |JP                    |390875              |99             |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
+null             |null                 |null                   |null                    |null                    |null                 |null                  |null                |null           |
